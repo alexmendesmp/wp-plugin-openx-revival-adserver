@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.8.3\n"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:34
+msgid "(eg.: 1.0.0)"
+msgstr "(ex.: 1.0.0)"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:45
+msgid "(eg.: http://youradserver.com.br)"
+msgstr "(ex.: http://youradserver.com.br)"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:1
+msgid "Add Banner From AdServer OpenX/Revive"
+msgstr "Adicione Banners do AdServer OpenX/reviver"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:38
+msgid "Affiliate (Sites) ID:"
+msgstr "ID do afiliado (Sites):"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:61
+msgid "Automatically adds paragraph."
+msgstr "Adicionar parágrafo automaticamente"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:64
+msgid "Banner preview"
+msgstr "Visualização do banner"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:1
+msgid "DCCode OpenX/Revive Banners"
+msgstr "DCCode OpenX/Revive Banners"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:56
+msgid "Description:"
+msgstr "Descrição:"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:21
+msgid "Error! Please check your informations"
+msgstr "Erro! Por favor, verifique suas informações"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:27
+msgid "OPENX/REVIVE Settings"
+msgstr "Configurações OPENX/REVIVE"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:72
+msgid "OpenX - Test Area"
+msgstr "Área de Testes - OpenX"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:42
+msgid "Openx (Revive) URL:"
+msgstr "Openx (Revive) URL:"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:31
+msgid "Openx/Revive Version:"
+msgstr "Openx/Revive Versão:"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:49
+msgid "Save settings"
+msgstr "Salvar configurações"
+
+#. Text in function
+#: dccode-adserver-openx-admin.php:17
+msgid "Settings updated"
+msgstr "Configurações salvas"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:48
+msgid "Title:"
+msgstr "Título:"
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:72
+msgid "Use this area to test your ads before drag and drop to target/production sidebar."
+msgstr "Use esta área para testar seus banners antes de arrastar para o sidebar de produção."
+
+#. Text in function
+#: dccode-adserver-class-widgets.php:52
+msgid "Zone ID:"
+msgstr "ID da Zona"
